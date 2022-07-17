@@ -1,3 +1,148 @@
 body {
   background: blanchedalmond;
 }
+
+.container{
+
+padding: 10px 5px 10px 5px;
+width: 520px;
+display: flex;
+flex-wrap: wrap;
+background-color: darkgray;
+margin-right: 0px;
+
+
+}
+
+.containerone{
+  padding: 10px 5px 10px 5px;
+  width: 520px;
+  display: flex;
+  flex-wrap: wrap;
+ margin-top: 40px;
+ background-color: darkgray;
+ margin-right: 0px;
+
+
+
+}
+
+
+div {
+
+border: 2px solid ;
+margin-left: 10px;
+margin-right: auto;
+
+
+}
+
+
+.a{
+
+  width: 500px;
+  height: 110px;
+  margin-bottom: 10px;
+  background-color: rgb(190, 186, 186);
+
+
+}
+
+.b {
+
+  width: 500px;
+  height: 400px;
+  margin-bottom: 10px;
+  background-color: rgb(190, 186, 186);
+
+
+}
+
+.c{
+
+  width: 500px;
+  height: 110px;
+  background-color: rgb(190, 186, 186);
+
+}
+
+
+#a{
+
+text-align: center;
+
+
+}
+
+#b{
+
+  text-align: center;
+  margin-top: 25%;
+
+  
+  
+  }
+
+
+  #c{
+
+    text-align: center;
+    
+    
+    }
+
+    h1 {
+
+      font-size: 3em;
+
+    }
+
+    .aone{
+
+      width: 500px;
+      text-align: center;
+      
+      background-color: rgb(190, 186, 186);
+     
+
+    }
+
+    
+    .bone{
+
+      width: 330px;
+      margin-top: 20px;
+      height: 350px;
+      
+      text-align: center;
+      background-color: rgb(190, 186, 186);
+
+    }
+
+
+    
+    .cone{
+width: 150px;
+margin-top: 20px;
+height: 350px;
+text-align: center;
+background-color: rgb(190, 186, 186);
+
+
+    }
+
+
+    #bone{
+
+      margin-top:40%;
+
+
+
+    }
+
+    #cone{
+
+      margin-top:85%;
+
+
+    }
